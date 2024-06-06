@@ -32,5 +32,17 @@
 * spring Data JDBC
 
 ## Spring MVC
-* Spring MVC
+* Spring MVC Comcepts
+* Thymeleaf
+
+## Spring Security 
+* Authentication
+* Authorization
+* JWT
+
+## Testing
+* Mock MVC
+* SpringBootTest annotation
+* DataJpa Test annotation
+* MockBean annoatation
 
