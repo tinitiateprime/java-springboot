@@ -12,7 +12,7 @@
 * Spring annotations  
 
 
-## Spring Boot fartures  
+## Spring Boot fertures  
 * Spring Boot starters
 * AutoConfigurations  
 * Elegant Configuration management
