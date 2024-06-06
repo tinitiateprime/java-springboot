@@ -13,10 +13,10 @@
 
 
 ## Spring Boot fartures  
-* spring Boot starters
+* Spring Boot starters
 * AutoConfigurations  
 * Elegant Configuration management
-* spring Boot actuator
+* Spring Boot actuator
 * Embedded server support
 
 
@@ -32,7 +32,7 @@
 * spring Data JDBC
 
 ## Spring MVC
-* Spring MVC Comcepts
+* Spring MVC Concepts
 * Thymeleaf
 
 ## Spring Security 
